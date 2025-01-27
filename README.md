@@ -78,19 +78,19 @@ The Company page is for adding a new company to the database. It includes all th
 In the buy drugs page an administrator can see the deals of a certain drug using barcode.
 
 ### 5. Add Drugs:
-![image](https://github.com/user-attachments/assets/da09d1d0-3723-4a55-a833-e8ec745075ff)
+![image](https://github.com/user-attachments/assets/4502a630-8ddf-4fe5-bb0d-f8d728b0a03f)
 
 ### Description:
 Add drug from Drugs button with necessary information.
 
 ### 6. Sales Bill page:
-![image](https://github.com/user-attachments/assets/faca5ebf-25a6-4625-afbb-32d584c882ae)
+![image](https://github.com/user-attachments/assets/055edc88-db64-473f-80e8-034b0866c3a3)
 
 ### Description: 
 The Sales bill page enable the administrator to search the details salary to company database.
 
-### 7. Settings/User Info:
-![image](https://github.com/user-attachments/assets/37e80302-8265-4f05-b7bb-96a5c68af417)
+### 7. User Info:
+![image](https://github.com/user-attachments/assets/4159f70c-3503-414c-9e32-559e0e9804c1)
 
 ### Description:
 From settings page we can display User_logs.
